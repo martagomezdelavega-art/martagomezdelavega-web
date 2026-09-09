@@ -1,0 +1,27 @@
+PÁGINA WEB DE MARTA GÓMEZ DE LA VEGA
+
+ARCHIVOS PRINCIPALES
+- index.html: contiene los textos y la estructura de la página.
+- styles.css: contiene el diseño, los colores y los tamaños.
+- CNAME: conecta GitHub Pages con martagomezdelavega.com.
+- assets/: contiene las fotografías, logotipos y documentos PDF.
+
+PAQUETE LIGERO
+Si el archivo descargado se llama web-marta-ligera.zip, los dos PDF no están
+dentro para que la descarga sea pequeña. Se subirán por separado a la carpeta
+assets de GitHub, conservando los nombres indicados a continuación.
+
+PARA ACTUALIZAR EL PORTFOLIO
+1. Exporta el nuevo portfolio como PDF.
+2. Cambia su nombre a: portfolio-2026.pdf
+3. En GitHub, abre la carpeta assets.
+4. Sustituye el archivo anterior por el nuevo con ese mismo nombre.
+
+PARA ACTUALIZAR EL CATÁLOGO
+Repite el mismo proceso usando el nombre: catalogo-obra-2026.pdf
+
+IMPORTANTE
+- No cambies estos dos nombres ni sus extensiones.
+- Si quieres modificar textos, diseño, fotografías o añadir secciones,
+  conviene actualizar también index.html y, en algunos casos, styles.css.
+- No es necesario volver a crear toda la web para sustituir un PDF.
