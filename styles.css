@@ -88,7 +88,7 @@ nav a:hover::after,nav a:focus-visible::after { right:0; }
   grid-row:1;
   align-self:end;
   margin:0;
-  padding:0 0 clamp(3.2rem,7vw,7rem) max(4vw,calc((100vw - 1380px)/2));
+  padding:0 0 clamp(6rem,9vw,9rem) max(4vw,calc((100vw - 1380px)/2));
   background:transparent;
   color:white;
 }
@@ -204,7 +204,7 @@ footer a { text-underline-offset:.25rem; }
   .hero-art { min-height:76svh; margin:0; }
   .hero-art figcaption { right:1rem; bottom:.8rem; display:none; text-align:right; }
   .hero-art figcaption span { display:block; }
-  .hero-copy { grid-column:1 / 13; width:auto; margin:0; padding:0 1rem 2.5rem; background:transparent; }
+  .hero-copy { grid-column:1 / 13; width:auto; margin:0; padding:0 1rem 5rem; background:transparent; }
   h1 { font-size:clamp(2.65rem,10.5vw,3.35rem); }
   h2 { font-size:clamp(2rem,7.7vw,2.55rem); }
   .intro { font-size:1.12rem; }
